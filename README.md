@@ -19,7 +19,7 @@
 - [x] Observer
 - [x] Memento
 - [ ] State
-- [ ] Flyweight
+- [x] Flyweight
 - [ ] Proxy
 - [x] Command
 - [ ] Interpreter
