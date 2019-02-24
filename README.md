@@ -1,7 +1,7 @@
 ## Design Pattern
 
 - [ ] Iterator
-- [ ] Adapter
+- [x] Adapter
 - [ ] Template Method
 - [ ] Factory Method
 - [x] Singleton
