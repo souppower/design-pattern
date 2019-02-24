@@ -1,6 +1,6 @@
 ## Design Pattern
 
-- [ ] Iterator
+- [x] Iterator
 - [x] Adapter
 - [ ] Template Method
 - [ ] Factory Method
