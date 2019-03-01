@@ -8,7 +8,7 @@
 - [x] Prototype
 - [x] Builder
 - [x] Abstract Factory
-- [ ] Bridge
+- [x] Bridge
 - [ ] Strategy
 - [ ] Composite
 - [ ] Decorator
