@@ -10,7 +10,7 @@
 - [x] Abstract Factory
 - [x] Bridge
 - [x] Strategy
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 - [ ] Visitor
 - [ ] Chain of Responsibility
