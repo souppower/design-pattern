@@ -1,4 +1,4 @@
-import { CatFactory, DogFactory, Dog, Cat } from "./factory_method";
+import { CatFactory, DogFactory, Dog, Cat } from "./factoryMethod";
 
 describe("Factory Method", () => {
   test("Dog factory can create a dog instance", () => {
