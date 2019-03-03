@@ -14,7 +14,7 @@
 - [x] Decorator
 - [x] Visitor
 - [x] Chain of Responsibility
-- [ ] Facade
+- [x] Facade
 - [ ] Mediator
 - [x] Observer
 - [x] Memento
@@ -23,3 +23,4 @@
 - [x] Proxy
 - [x] Command
 - [ ] Interpreter
+      ;
